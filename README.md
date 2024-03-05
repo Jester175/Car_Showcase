@@ -1,4 +1,4 @@
-## Car_Showcase
+# Car_Showcase
 
 Application Stack:
 <div>
@@ -12,7 +12,7 @@ Application Stack:
 </div>
 <b>updated: 05/03/2024</b>
 
-# Getting Started
+## Getting Started
 ```bash
 npm i
 npm run dev
