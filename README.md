@@ -19,3 +19,12 @@ npm run dev
 yarn
 yarn dev
 ```
+
+<b>Hero Section:</b>
+![Hero Illustration](https://i.ibb.co/yd3vs44/Hero.png)
+
+<b>Car Catalogue Section:</b>
+![Car Catalogue Illustration](https://i.ibb.co/4ZHyq9K/catalog.png)
+
+<b>Car Details Modal:</b>
+![Car Details Modal Illustration](https://i.ibb.co/861j20K/car-Details.png)
